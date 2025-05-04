@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 May 2025 11:26:10 at https://danyyordanov.com/ +*.danyyordanov.com/* +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://danyyordanov.com/ -O1 "C:\Users\asus\Desktop\danyyordanov_clone_1" +*.danyyordanov.com/* +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:26:54	Error: 	"Not Found" (404) at link https://co.middleware.bg/cb/co/Nno1dTZ0cTIzU0hEQUU4UXBLODlhbVpJQTN1ZURRPT0.js (from https://danyyordanov.com/)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/d (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+11:26:54	Error: 	"Not Found" (404) at link https://danyyordanov.com/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 105 links scanned, 96 files written (6282683 bytes overall) [3116750 bytes received at 56668 bytes/sec], 4770296 bytes transferred using HTTP compression in 39 files, ratio 20%, 2.5 requests per connection
+(9 errors, 0 warnings, 0 messages)

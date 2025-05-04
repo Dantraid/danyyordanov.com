@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+danyyordanov.com	TRUE	/	FALSE	1999999999	INGRESSCOOKIE	C86AE9C034ED88FE091FEBF751F5B7EF
+danyyordanov.com	TRUE	/	FALSE	1999999999	SameSite	None
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	ERKW7mUuMhNiEhQ.VC9VGxiFXAXsC_zmYs4jrbb4_s0-1746347210-1.0.1.1-rGhKXZEl6r7IGOmx_LMWVk1IpoaOCzz1ah04mFyIMI4zDaBRbTpQCZpCFjKkI3lu
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	q9rwDsDhUHUTG7iV9aF3hWbGnxSeSGgIAY_cUXjZucc-1746347210232-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
